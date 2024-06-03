@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bem vindos ao meu perfil👋
 
-<!--
-**2dmorenared40/2dmorenared40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Helena
 
-Here are some ideas to get you started:
+estou estudando no [alura] (https:\\ww.alura.com.br)
+estiu me desenvolvendo em JavaScript
+utilizo este espaçopara organização e compartilhamento dos meus projetos desenvlvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## você entra em contato comigo 📫
+00001082452464sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/47qpxBq_Tw0AAAAd/cat-cat-meme.gif)
+
+
